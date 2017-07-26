@@ -16,7 +16,7 @@ attachments :
 
 *** =pre_exercise_code
 ```{python}
-ls
+pwd
 ```
 
 *** =sample_code
@@ -26,7 +26,7 @@ ls
 
 *** =solution
 ```{python}
-ls
+pwd
 ```
 
 *** =sct
